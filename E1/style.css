@@ -1,0 +1,18 @@
+.box-a {
+  background-color: #87CEFA;
+  padding: 30px;
+  border: 10px double #FFFAF0;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 150px;
+  box-sizing: border-box;
+}
+
+.box-b {
+  background-color: #E0FFFF;
+  padding: 30px;
+  border: 8px dashed #ADD8E6;
+  margin: 30px 10px 30px 10px;
+  width: 200px;
+  height: 150px;
+}
